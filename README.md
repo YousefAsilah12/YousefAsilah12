@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yousefasilah12&label=Visitors&color=ff8000&style=plastic" alt="yousefasilah12" /> </p>
 
-- 🌱 I’m currently learning **NodeJs , MongoDB**
+
 
 - 👨‍💻 All of my projects are available at [https://github.com/YousefAsilah12?tab=repositories](https://github.com/YousefAsilah12?tab=repositories)
 
